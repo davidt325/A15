@@ -1,7 +1,3 @@
-/*
-    Mobile Menu Core Style
-*/
-
 .slicknav_btn {
 	position: relative;
 	display: block;
@@ -66,9 +62,9 @@
 }
 /* IE6/7 support */
 .slicknav_menu {
-*zoom: 1
+	*zoom: 1
 }
-/* 
+/*
     User Default Style
     Change the following styles to modify the appearance of the menu.
 */
